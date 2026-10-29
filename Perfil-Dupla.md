@@ -4,10 +4,13 @@
 Julianus Floss
 
 ## Cor favorita da dupla
-Rosa Shock bengay
+Azul Cachorro
 
 ## Comida favorita da dupla
 Caranguejo frito no espetinho com tetano
 
 ## Frase da dupla
 se uma ja faz estrago imagine duas
+
+## Adiciona série favorita e muda cor da dupla
+Star Wars: A Vingança Dos Sith
