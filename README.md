@@ -11,3 +11,6 @@
 
 ## Frase da dupla
 (a definir)
+
+## Série ou filme favorito da dupla
+Star Wars: A Vingança Dos Sith
